@@ -11,7 +11,7 @@ This AI-powered fraud detection system utilizes XGBoost machine learning to anal
 ## Features
 
 - Real-time transaction analysis using XGBoost
-- High-confidence prediction filtering (85%+ confidence)
+- High-confidence prediction filtering (50%+ confidence)
 - Interactive data visualization
 - Batch processing of transaction data
 - Exportable prediction results
